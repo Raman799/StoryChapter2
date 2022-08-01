@@ -1,2 +1,2 @@
 # StoryChapter2
-better advance
+Better learning of git and version control.
